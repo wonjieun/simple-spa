@@ -1,0 +1,30 @@
+npm 설치
+cmd
+
+d드라이브로 이동
+> d:
+폴더 이동
+> cd git/simple-spa
+
+npm 버전 확인
+> npm -v
+
+node 버전 확인
+> node -v
+
+npm serve 설치
+> npm install -g serve
+
+serve 버전 확인
+> serve --version
+
+serve 명령어 도움말
+> serve --help
+
+모더라
+> npm link
+
+서버시작
+> serve -l 3003 03_spa
+
+http://localhost:3003 접속
